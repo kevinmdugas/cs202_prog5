@@ -1,0 +1,24 @@
+Test playlist
+3
+3
+
+First video
+January 1st, 2020
+0
+1
+0
+40
+
+Second video
+February 29th, 2020
+12
+0
+4
+1
+
+Third video
+July 8th, 2020
+900
+10
+59
+59
